@@ -35,7 +35,7 @@ Charts & Visuals
 - Stacked Bar – Product Category Sales
 - Table View – Shop Type Breakdown with Avg Rating and Sales
 
-## 📌 Repository Highlights
+## 🖼️ Dashboard Image
 ![Screenshot 2025-04-24 182408](https://github.com/user-attachments/assets/e02419aa-0b69-4bdd-82df-42c393e263c5)
 
 ## 🔍 Key Insights
