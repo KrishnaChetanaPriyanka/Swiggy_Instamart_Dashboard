@@ -36,8 +36,7 @@ Charts & Visuals
 - Table View – Shop Type Breakdown with Avg Rating and Sales
 
 ## 📌 Repository Highlights
-![image](https://github.com/user-attachments/assets/b8bf029f-3469-45ab-a2da-01c048974f6b)
-
+![Screenshot 2025-04-24 182408](https://github.com/user-attachments/assets/e02419aa-0b69-4bdd-82df-42c393e263c5)
 
 ## 🔍 Key Insights
 - Tier 3 cities contributed the highest sales (₹0.47M), followed by Tier 2 and Tier 1
